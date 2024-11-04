@@ -1,3 +1,7 @@
+# DRUŻYNA
+* Marcin Majborski - Majbor1 - 1, 6
+* Kacper Kwaśniewski - Kwasniewski27 - 4, 5
+
 # WPROWADZENIE
 > 1 AKAPIT 
 
